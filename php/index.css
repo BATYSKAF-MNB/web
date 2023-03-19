@@ -1,0 +1,21 @@
+
+*{
+    background-color: antiquewhite;
+}
+
+
+.formularz{
+    box-sizing: border-box;
+    margin: 10px;
+    padding:1%;
+    position: relative;
+    border: 2px solid black;
+
+}
+
+.formularz form input{
+    box-sizing: border-box;
+    border: 2px solid black;
+    display: block;
+
+}
